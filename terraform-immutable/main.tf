@@ -1,4 +1,4 @@
-module "cart" {
+module "user" {
   source                 = "git::https://github.com/rayuduroyal/roboshop.git/terraform-immutable//app-module"
   INSTANCE_TYPE          = var.INSTANCE_TYPE
   ENV                    = var.ENV
