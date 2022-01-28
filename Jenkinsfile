@@ -5,9 +5,13 @@
 //     LABEL             : 'WORKSTATION'
 // )
 
-nodejs-immutable(
+// nodejs-immutable(
+//     COMPONENT         : 'user',
+//     LABEL             : 'WORKSTATION'
+// )
+
+docker(
     COMPONENT         : 'user',
     LABEL             : 'WORKSTATION'
 )
-
 
